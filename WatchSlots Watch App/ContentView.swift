@@ -77,9 +77,9 @@ struct ContentView: View {
     // Create the reset func so it resets all vars to default when the reset button is pressed
     func reset() {
         
+        // Reset the Variables
         balance = 100
         betAmount = 1
-        
         spin1 = ""
         spin2 = ""
         spin3 = ""
