@@ -39,8 +39,10 @@ struct ContentView: View {
     @State private var balance = 100
     @State private var betAmount = 1
     
+    // Different amoji symbols
     let symbols = ["💎", "🍒", "🍀", "🔔", "🎰"]
     
+    // Premake the var symbols
     @State private var spin1 = ""
     @State private var spin2 = ""
     @State private var spin3 = ""
