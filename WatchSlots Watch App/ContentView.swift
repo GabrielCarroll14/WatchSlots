@@ -25,7 +25,6 @@ struct Settings: View {
                     
                     // Description on how the game logic works
                     Text("Your score will be x3 by your betamount if you get all three symbols, x1 if you get two. If you get none, your betamount will be minused from your balance.")
-                    
                 }
             }
         }
@@ -33,7 +32,7 @@ struct Settings: View {
     
 }
 
-// Create the visual structure of the code
+// Create the structure of the code
 struct ContentView: View {
     
     // Create the different variebles
