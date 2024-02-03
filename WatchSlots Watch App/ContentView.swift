@@ -30,6 +30,7 @@ struct Settings: View {
             }
         }
     }
+    
 }
 
 // Create the visual structure of the code
