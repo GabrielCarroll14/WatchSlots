@@ -32,6 +32,16 @@ struct Settings: View {
     
 }
 
+// Leaderboard
+struct HighSores: View {
+    var body: some View {
+        VStack {
+            ScrollView {
+            }
+        }
+    }
+}
+
 // Create the structure of the code
 struct ContentView: View {
     
